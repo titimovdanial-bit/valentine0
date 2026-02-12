@@ -1,4 +1,4 @@
 valentine0
- ├─ index.html   ← ОБЯЗАТЕЛЬНО
+ ├─ index.html
  ├─ style.css
  └─ script.js
